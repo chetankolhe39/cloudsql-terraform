@@ -1,5 +1,5 @@
 project = "cloudmatos"
 region = "us-east1"
 password = "cloudmatos123"
-cidr-name = "opcito-office"
-cidr ="103.254.55.46/32"
+cidr-name = "private-network"
+cidr ="1.1.1.1/32"
